@@ -2,16 +2,15 @@
 
 ## Student Details
 
-- **Name:** Shaik Suheal
-- **Registration Number:** 252U1R9145
-- **Section:** CSE-GEN-AI 2C 112
+- **Name:** Pendyala Praveen Kumar
+- **Registration Number:** 252U1R9123
+- **Section:** CSE-GEN-AI 2B 111
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
 
 ## Live Link
 
-**Deployment URL: https://bdf-lab-01.vercel.app
-
+**Deployment URL: https://backend-development-fundamentals-lab-01-1.onrender.com
 ## Objective
 
 To set up a Node.js project, create a basic HTTP server using the built-in `http` module, and build an Express server with multiple routes and appropriate HTTP status codes.
@@ -24,6 +23,8 @@ To set up a Node.js project, create a basic HTTP server using the built-in `http
 - npm
 - Visual Studio Code
 
+- -Render
+
 ## Project Structure
 
 ```text
@@ -33,6 +34,7 @@ lab-01/
 │   ├── about.png
 │   ├── time.png
 │   └── not-found.png
+    |__ error.png
 ├── server-http.js
 ├── server.js
 ├── package.json
